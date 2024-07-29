@@ -8,7 +8,7 @@ import os
 
 # 确保使用绝对路径
 hdf_file = 'C:/Users/r/desktop/modis/data/MCD12C1.A2020001.061.2022172062638.hdf'
-geojson_file = 'C:/Users/r/desktop/modis/geojson/CN-border-L1.geojson'
+geojson_file = 'C:/Users/r/desktop/modis/geojson/polygon_geojson.geojson'
 tiff_file = 'C:/Users/r/desktop/modis/data/temp.tif'
 
 # 读取 HDF 文件中的图层，替换 'GridName' 为实际的图层名称
